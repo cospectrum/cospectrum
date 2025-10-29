@@ -4,15 +4,9 @@
 
 ## 🚀 Sponsors & Partners
 
-<div>
-  <div style="width: 200px; display: inline-block; text-align: center;">
-    <a href="https://evrone.com">
-      <img src="./sponsors/evrone-sponsored.svg" alt="evrone" style="height: 50px; width: 180px;">
-    </a>
-  </div>
-  <div style="width: 200px; display: inline-block; text-align: center;">
-    <a href="https://www.diabolocom.com">
-      <img src="./sponsors/diabolocom-logo.svg" alt="diabolocom" style="height: 50px; width: 180px;">
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td><a href="https://evrone.com"><img src="./sponsors/evrone-sponsored.svg" width="100" alt="evrone" /></a></td>
+    <td><a href="https://www.diabolocom.com"><img src="./sponsors/diabolocom-logo.svg" width="130" alt="diabolocom" /></a></td>
+  </tr>
+</table>
