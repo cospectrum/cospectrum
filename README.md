@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://evrone.com">
-  <img src="./sponsors/evrone-sponsored.svg" width="240" alt="evrone">
+  <img src="./sponsors/evrone-sponsored.svg" width="180" alt="evrone">
 </a>
 
 <!--
