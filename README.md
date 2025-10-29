@@ -5,6 +5,5 @@
 <table>
   <tr>
     <td><a href="https://evrone.com"><img src="./sponsors/evrone-sponsored.svg" width="100" alt="evrone" /></a></td>
-    <td><a href="https://www.diabolocom.com"><img src="./sponsors/diabolocom-logo.svg" width="130" alt="diabolocom" /></a></td>
   </tr>
 </table>
