@@ -2,16 +2,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cospectrum&layout=compact&theme=dracula&hide=html)
 
 
-## Sponsors
+## 🚀 Sponsors & Partners
 
-<div align="center">
-
-<a href="https://evrone.com">
-  <img src="./sponsors/evrone-sponsored.svg" width="180" alt="evrone">
-</a>
-
-<!--
-<br><br>
--->
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://evrone.com">
+        <img src="./sponsors/evrone-sponsored.svg" alt="evrone" height="50">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.diabolocom.com">
+        <img src="./sponsors/diabolocom-logo.svg" alt="diabolocom" height="50">
+      </a>
+    </td>
+  </tr>
+</table>
