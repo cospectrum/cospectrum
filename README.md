@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cospectrum&layout=compact&theme=dracula&hide=html)
-
 ## 🚀 Sponsors & Partners
 <table>
   <tr>
